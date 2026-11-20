@@ -3,9 +3,9 @@
 Repositori ini berisi rancangan basis data (Conceptual/Logical ERD, Relational Model, dan DDL SQL) untuk studi kasus **HealthOne Medical Database** sebagai bagian dari tugas **UAS Bayangan — Sistem Basis Data** (Oracle Academy Database Design Project).
 
 ## Identitas Mahasiswa
-* **Nama:** [Isi Nama Lengkap]
-* **NIM:** [Isi NIM]
-* **Kelas:** [Isi Kelas]
+* **Nama:** Khansa Dayana
+* **NIM:** 1251420129
+* **Kelas:** SBD 3C
 * **Mata Kuliah:** Sistem Basis Data
 * **Dosen Pengampu:** Rizal Broer Bahaweres
 
